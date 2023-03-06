@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(15, 15, 15);
+}
+
+.hemmu img{
+    height: 70vh;
+    width: 100%;
+    opacity: 0.9;
+    
+
+}
+.hemmu h1{
+    height: 170px;
+    color: red;
+    height: 50PX;
+    position: absolute;
+    top: 10PX;
+    left: 60PX;
+    font-family: sans-serif;
+}
+.hemmu span{
+    color: white;
+}
+.hemmu p{
+    text-align: left;
+    position: absolute;
+    top: 85px;
+    color: aliceblue;
+    width: 550px;
+    margin-left: 30px;
+    opacity: 0.5;
+    
+}
+H2{
+    color: rgba(252, 29, 14, 0.919);
+    position: absolute;
+    top: 410PX;
+    left: 82%;
+    font-size: 35PX;
+}
+
+.icon{
+    color: aliceblue;
+    position: absolute;
+    top: 15px;
+    left: 85%;
+    font-size: x-large;
+    display: flex;
+    gap: 1.1rem;
+}
+.cid{
+    display: flex;
+    gap: 2rem;
+    border-radius: 40px;
+    height:200px;
+    width: 150px;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+
+
+.kumoni h1{
+    margin-top: 10px;
+    color: rgb(247, 250, 247);
+    font-size: xx-large;
+    margin-left: 30PX;
+}
+.kumoni span{
+    color: rgb(249, 243, 250);
+    
+}
